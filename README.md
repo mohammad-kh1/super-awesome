@@ -40,6 +40,16 @@
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)
 - [Awesome Security Privacy](https://github.com/pluja/awesome-privacy)
 - [Awesome Telegram Osint](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
+- [Awesome WAF](https://github.com/0xInfection/Awesome-WAF)
+- [Awesome EDR Bypass](https://github.com/tkmru/awesome-edr-bypass)
+- [Awesome Reverse Engineering](https://github.com/wtsxDev/reverse-engineering)
+- [Awesome RED TEAM](https://github.com/0xMrNiko/Awesome-Red-Teaming)
+- [Awesome Macos Redteam](https://github.com/tonghuaroot/Awesome-macOS-Red-Teaming)
+- [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)
+- [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
+- [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
+- [Awesome IDA X64 OLLY Plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin)
+
 
 ## DevOps
 - [Awesome DevOps](https://github.com/bregman-arie/devops-exercises)
