@@ -36,4 +36,12 @@
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 - [Awesome XSS](https://github.com/s0md3v/AwesomeXSS)
+- [Awesome Linux Rootkits](https://github.com/milabs/awesome-linux-rootkits)
+- [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)
+- [Awesome Security Privacy](https://github.com/pluja/awesome-privacy)
+- [Awesome Telegram Osint](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)
+
+## DevOps
+- [Awesome DevOps](https://github.com/bregman-arie/devops-exercises)
+- [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 
