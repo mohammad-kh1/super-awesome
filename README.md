@@ -28,6 +28,8 @@
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
+- [Awesome Dotnet](https://github.com/quozd/awesome-dotnet)
+
 
 ## Security & Hacking
 - [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
