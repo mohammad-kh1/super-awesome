@@ -13,7 +13,7 @@
 
 
 ## Programming Languages
-- [Awesome CPP](https://github.com/oz123/awesome-c)
+- [Awesome C](https://github.com/oz123/awesome-c)
 - [Awesome CPP](https://github.com/fffaraz/awesome-cpp)
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Python](https://github.com/vinta/awesome-python)
