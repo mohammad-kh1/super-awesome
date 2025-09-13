@@ -13,6 +13,7 @@
 
 
 ## Programming Languages
+- [Awesome CPP](https://github.com/oz123/awesome-c)
 - [Awesome CPP](https://github.com/fffaraz/awesome-cpp)
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Python](https://github.com/vinta/awesome-python)
@@ -49,9 +50,15 @@
 - [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
 - [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
 - [Awesome IDA X64 OLLY Plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin)
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 
 ## DevOps
 - [Awesome DevOps](https://github.com/bregman-arie/devops-exercises)
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+- [Awesome Windows](https://github.com/0PandaDEV/awesome-windows)
 
+
+
+## Other Awesomes
+- [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
