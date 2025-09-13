@@ -1,4 +1,4 @@
-# Awesome Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Awesome ![Awesome](https://awesome.re/badge.svg)
 > A curated list of all awesome lists on GitHub.
 
 ## Table of Contents
