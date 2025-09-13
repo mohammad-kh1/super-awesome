@@ -23,6 +23,7 @@
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter)
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
+- [Awesome java](https://github.com/akullpp/awesome-java)
 
 
 ## Frameworks
