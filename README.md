@@ -1,5 +1,5 @@
 # Awesome Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> A curated list of all awesome lists on GitHub — the meta-awesome collection.
+> A curated list of all awesome lists on GitHub.
 
 ## Table of Contents
 
