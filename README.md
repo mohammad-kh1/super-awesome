@@ -9,6 +9,7 @@
 - [Data Science](#data-science)
 - [DevOps](#devops)
 - [Tools](#tools)
+- [AI](#ai)
 - [Other Awesomes](#other-awesomes)
 
 
@@ -26,11 +27,14 @@
 - [Awesome java](https://github.com/akullpp/awesome-java)
 
 
-## Frameworks
+## Frameworks && Libs
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [Awesome Dotnet](https://github.com/quozd/awesome-dotnet)
+- [Awesome Nodejs](https://github.com/sindresorhus/awesome-nodejs)
+- [Awesome React Native](https://github.com/jondot/awesome-react-native)
+
 
 
 ## Security & Hacking
@@ -53,11 +57,23 @@
 - [Awesome IDA X64 OLLY Plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin)
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
+## Data Science
+- [AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)
+
 
 ## DevOps
 - [Awesome DevOps](https://github.com/bregman-arie/devops-exercises)
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 - [Awesome Windows](https://github.com/0PandaDEV/awesome-windows)
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+
+
+
+## AI
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome Chatgpt Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 
 
