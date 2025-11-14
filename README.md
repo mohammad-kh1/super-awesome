@@ -25,6 +25,9 @@
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter)
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Awesome java](https://github.com/akullpp/awesome-java)
+- [Awesome Erlang](https://github.com/drobakowski/awesome-erlang)
+- [Awesome C-Sharp](https://github.com/uhub/awesome-c-sharp)
+- [Awesome Perl](https://github.com/hachiojipm/awesome-perl)
 
 
 ## Frameworks && Libs
