@@ -51,7 +51,7 @@ This repository aggregates the best-of-the-best *awesome* lists across programmi
 | Gin (Go)       | [FlowerWrong/awesome-gin](https://github.com/FlowerWrong/awesome-gin)        |
 | Fiber (Go)     | [gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber)            |
 | Spring         | [ThomasVitale/awesome-spring](https://github.com/ThomasVitale/awesome-spring) |
-| Django         | [shahraizali/awesome-django](https://github.com/shahraizali/awesome-django)  |
+| Django         | [awesomedjango.org](https://awesomedjango.org/)  |
 | FastAPI        | [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)          |
 | Flask          | [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask)      |
 | Angular        | [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)    |
