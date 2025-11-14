@@ -30,13 +30,20 @@
 - [Awesome Perl](https://github.com/hachiojipm/awesome-perl)
 
 
-## Frameworks && Libs
+## Frameworks & Libs
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [Awesome Dotnet](https://github.com/quozd/awesome-dotnet)
 - [Awesome Nodejs](https://github.com/sindresorhus/awesome-nodejs)
-- [Awesome React Native](https://github.com/jondot/awesome-react-native)
+- [Awesome Gin](https://github.com/FlowerWrong/awesome-gin)
+- [Awesome Fiber](https://github.com/gofiber/awesome-fiber)
+- [Awesome Spring](https://github.com/ThomasVitale/awesome-spring)
+- [Awesome Django](https://awesomedjango.org/)
+- [Awesome Django 2](https://github.com/shahraizali/awesome-django)
+- [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi)
+- [Awesome Flask](https://github.com/humiaozuzu/awesome-flask)
+- [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
 
 
 
@@ -82,3 +89,5 @@
 
 ## Other Awesomes
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
+- [Awesome PowerShell](https://codeberg.org/janikvonrotz/awesome-powershell)
+
