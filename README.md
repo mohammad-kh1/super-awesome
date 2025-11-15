@@ -98,6 +98,7 @@ This repository aggregates the best-of-the-best *awesome* lists across programmi
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) – Reverse Engineering  
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) – Ultimate Hacking List  
 - [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) – Cybersecurity oriented awesome list
+- [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
 
 ---
 
