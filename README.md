@@ -3,7 +3,6 @@
 > A **curated list of all awesome lists on GitHub** — the ultimate meta-awesome collection.
 
 This repository aggregates the best-of-the-best *awesome* lists across programming, frameworks, security, DevOps, AI, databases, frontend, blockchain, and more.  
-**The "awesome list of awesome lists"** — now with 100+ top-tier resources.
 
 ---
 
